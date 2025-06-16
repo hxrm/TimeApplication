@@ -41,10 +41,10 @@ The Study Tracker application is designed to assist you in effectively managing 
 Start Date for the First Week: Choose the start date for the first week of the semester.
 Entering Module Information:
 - Within the "Create Module" window, provide the following details for each module:
-- Module Code:** Enter a unique code for the module (e.g., PROG6212).
-- Module Name:** Supply a descriptive name for the module (e.g., Programming 2B).
- - Number of Credits:** Specify the credit value for the module (e.g., 15).
-  - Class Hours per Week:** Indicate the number of hours of in-class instruction per week (e.g., 5).
+- Module Code:Enter a unique code for the module (e.g., PROG6212).
+- Module Name:Supply a descriptive name for the module (e.g., Programming 2B).
+ - Number of Credits:Specify the credit value for the module (e.g., 15).
+  - Class Hours per Week:Indicate the number of hours of in-class instruction per week (e.g., 5).
 
 4. Saving Module Information:
    - Once you've filled in the module details, click the "Save" button to store the module information.
